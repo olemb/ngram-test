@@ -5,5 +5,6 @@ Counts n-grams of given length in a file and stores them in a shelve. This is ju
 
 See: http://www.reddit.com/r/learnpython/comments/1hd3rp/how_to_do_as_much_in_memory_as_possible_without/
 
+License: MIT (http://en.wikipedia.org/wiki/MIT_License)
 
 - Ole Martin Bjørndalen
